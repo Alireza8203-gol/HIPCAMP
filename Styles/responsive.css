@@ -1,0 +1,138 @@
+@media (max-width: 310px) {
+	.newsletter::before {
+		top: 12rem;
+		left: -25rem;
+		right: 0;
+	}
+}
+@media (max-width: 380px) {
+	.header-content__title {
+		font-size: 3.5rem;
+	}
+	.header-content__caption {
+		font-size: 1.4rem;
+	}
+	.nav-menu {
+		width: 26.5rem;
+	}
+	.header-content__caption {
+		max-width: 27rem;
+	}
+	.newsletter__title {
+		max-width: 22rem;
+	}
+}
+
+@media (min-width: 576px) {
+	
+}
+
+@media (min-width: 768px) {
+	.nav__btn,
+	.nav-menu {
+		display: none;
+	}
+	.menu {
+		display: flex;
+	}
+	.newsletter {
+		/* flex-direction: row; */
+		align-items: center;
+	}
+	.newsletter::before {
+		top: 10rem;
+    left: -24rem;
+	}
+	.newsletter__caption {
+		max-width: 45rem;
+		font-size: 2rem;
+	}
+	.newsletter__img {
+		margin-bottom: 0;
+	}
+	#siteMap {
+		display: block;
+	}
+}
+
+@media (min-width: 992px) {
+	.nav__links {
+		display: block;
+	}
+	.header-content {
+		/* margin-top: 18rem; */
+	}
+	.header-content__title {
+		font-size: 7vh;
+    line-height: 10vh;
+    max-width: 50vh;
+		/* margin-top: 25rem; */
+	}
+	.header-content__caption {
+		max-width: 60vh;
+    font-size: 2vh;
+    margin: 0 auto;
+    margin-top: 3.3vh;
+    margin-bottom: 3vh;
+	}
+	.destinations__title {
+		/* font-size: rem; */
+	}
+	.newsletter {
+		flex-direction: row;
+    text-align: left;
+    padding: 2rem 5rem;
+    justify-content: space-between;
+	}
+	.newsletter::before {
+		top: -35rem;
+    left: -50rem;
+    right: 30rem;
+	}
+	.newsletter__content {
+		flex-basis: 55%;
+		/* margin-top: 4rem; */
+		/* margin-bottom: 4rem; */
+		margin-right: 3rem;
+		margin-left: 5rem;
+	}
+	.newsletter__caption {
+		margin: 0;
+		margin-bottom: 2rem;
+	}
+	.newsletter__email-box {
+		max-width: 90%;
+	}
+	.newsletter__banner {
+		margin-left: 10rem;
+    /* margin-top: 2rem; */
+    /* margin-bottom: 2rem; */
+    flex-basis: 40%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.newsletter::before {
+		background-size: auto;
+    top: -40rem;
+    left: -10rem;
+    right: 0;
+	}
+	.newsletter__img {
+		width: 468px;
+	}
+	.footer-caption {
+		max-width: 45rem;
+	}
+	.footer__scroll {
+		margin: 0;
+		right: 0;
+		left: auto;
+	}
+}
+
+@media (min-width: 1400px) {
+	.footer-caption {
+	max-width: 62rem;
+	}
+}
