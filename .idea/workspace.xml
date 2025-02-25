@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0505114-8720-4549-842a-e10e2d9fd97f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Archivo/Archivo-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonts/Roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/app-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/app-store-apple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/google-play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/image9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/arrow-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/bars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/heart-filled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svg-icons/send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/destination.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/fire.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/fish.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/paper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/shape1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/shape2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/shape3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/svgs/tickets.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/tent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/app-min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alireza8203-gol&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alireza8203-gol/HIPCAMP.git&quot;,
+    &quot;accountId&quot;: &quot;ff3cd48c-79b2-4d6f-ac29-223459343184&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tOIXranzm1exjP89KYYCqHjmzA" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.localhost:3000.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\alire\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "D:\\Front Projects\\Hipcamp\\react\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="localhost:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:3000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0505114-8720-4549-842a-e10e2d9fd97f" name="Changes" comment="" />
+      <created>1740216736752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740216736752</updated>
+      <workItem from="1740216738514" duration="2155000" />
+      <workItem from="1740218926989" duration="475000" />
+      <workItem from="1740502271667" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
