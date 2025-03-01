@@ -1,11 +1,12 @@
 import Navbar from "@/components/Navbar.tsx";
-import UserAccount from "@/components/UserAccount.tsx";
+import Hero from "@/components/Hero.tsx";
+
 const Header = () => {
   return (
     <header className="header">
       <div className="container">
         <Navbar />
-        <UserAccount />
+        <Hero />
       </div>
     </header>
   );
