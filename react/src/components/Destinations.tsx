@@ -11,6 +11,7 @@ const Destinations = () => {
       />
       <h2 className="destinations__title">Explore Destinations & Activities</h2>
       <PlacesWrapper />
+      <button className="btn destinations__btn">View all</button>
     </section>
   );
 };

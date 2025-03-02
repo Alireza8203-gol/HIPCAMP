@@ -1,5 +1,6 @@
 import Services from "@/components/Services.tsx";
 import Destinations from "@/components/Destinations.tsx";
+import NewsLetter from "@/components/NewsLetter.tsx";
 
 const Main = () => {
   return (
@@ -7,6 +8,7 @@ const Main = () => {
       <div className="container">
         <Services />
         <Destinations />
+        <NewsLetter />
       </div>
     </main>
   );
