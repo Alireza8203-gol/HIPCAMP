@@ -1,6 +1,6 @@
 import Services from "@/components/Services.tsx";
-import Destinations from "@/components/Destinations.tsx";
 import NewsLetter from "@/components/NewsLetter.tsx";
+import Destinations from "@/components/Destinations.tsx";
 
 const Main = () => {
   return (

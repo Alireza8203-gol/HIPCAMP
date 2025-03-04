@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0505114-8720-4549-842a-e10e2d9fd97f" name="Changes" comment="Feature: Mobile Menu button functionality, Places like button.&#10;Refactoring: Menu structure,&#10;&#10;The menus for desktop and mobile are refactored. I use a separate file to pull data from it and then run a loop to display the options. &#10;Made a couple more components for reusability. UserAccount and MenuList; Refactored components and improved the quality of codes. Place Card component is also done." />
+    <list default="true" id="b0505114-8720-4549-842a-e10e2d9fd97f" name="Changes" comment="Refactoring: App.css / Style: View All Button / implementation: Newsletter section, Footer section&#10;&#10;Rearranged style properties in App.css file. The &quot;View All&quot; button in destinations section was overhauled. It was originally an &lt;a&gt; tag and now I changed it to an actual button tag; that caused the styles to not take effect, therefore changing this element's was necessary.&#10;The Newsletter section is implemented. Also turned the svgs used in this section, into separate components for better abstraction. Footer is implemented.">
+      <change beforePath="$PROJECT_DIR$/pure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pure/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +110,7 @@
       <workItem from="1740728541145" duration="653000" />
       <workItem from="1740744039772" duration="62000" />
       <workItem from="1740815568963" duration="9048000" />
+      <workItem from="1740910305251" duration="6341000" />
     </task>
     <task id="LOCAL-00001" summary="First commit of the new branch &quot;React&quot;">
       <option name="closed" value="true" />
@@ -133,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740840065418</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactoring: App.css / Style: View All Button / implementation: Newsletter section, Footer section&#10;&#10;Rearranged style properties in App.css file. The &quot;View All&quot; button in destinations section was overhauled. It was originally an &lt;a&gt; tag and now I changed it to an actual button tag; that caused the styles to not take effect, therefore changing this element's was necessary.&#10;The Newsletter section is implemented. Also turned the svgs used in this section, into separate components for better abstraction. Footer is implemented.">
+      <option name="closed" value="true" />
+      <created>1740932259881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740932259881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +154,7 @@
     <MESSAGE value="First commit of the new branch &quot;React&quot;" />
     <MESSAGE value="fix: fixing error from the previous commit" />
     <MESSAGE value="Feature: Mobile Menu button functionality, Places like button.&#10;Refactoring: Menu structure,&#10;&#10;The menus for desktop and mobile are refactored. I use a separate file to pull data from it and then run a loop to display the options. &#10;Made a couple more components for reusability. UserAccount and MenuList; Refactored components and improved the quality of codes. Place Card component is also done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Mobile Menu button functionality, Places like button.&#10;Refactoring: Menu structure,&#10;&#10;The menus for desktop and mobile are refactored. I use a separate file to pull data from it and then run a loop to display the options. &#10;Made a couple more components for reusability. UserAccount and MenuList; Refactored components and improved the quality of codes. Place Card component is also done." />
+    <MESSAGE value="Refactoring: App.css / Style: View All Button / implementation: Newsletter section, Footer section&#10;&#10;Rearranged style properties in App.css file. The &quot;View All&quot; button in destinations section was overhauled. It was originally an &lt;a&gt; tag and now I changed it to an actual button tag; that caused the styles to not take effect, therefore changing this element's was necessary.&#10;The Newsletter section is implemented. Also turned the svgs used in this section, into separate components for better abstraction. Footer is implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring: App.css / Style: View All Button / implementation: Newsletter section, Footer section&#10;&#10;Rearranged style properties in App.css file. The &quot;View All&quot; button in destinations section was overhauled. It was originally an &lt;a&gt; tag and now I changed it to an actual button tag; that caused the styles to not take effect, therefore changing this element's was necessary.&#10;The Newsletter section is implemented. Also turned the svgs used in this section, into separate components for better abstraction. Footer is implemented." />
   </component>
 </project>

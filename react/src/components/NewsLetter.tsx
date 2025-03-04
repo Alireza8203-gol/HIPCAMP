@@ -1,4 +1,3 @@
-import tentImg from "@/assets/Images/tent.png";
 import NewsLetterForm from "@/components/NewsLetterForm.tsx";
 
 const NewsLetter = () => {
@@ -15,7 +14,7 @@ const NewsLetter = () => {
         </div>
       </div>
       <div className="newsletter__banner">
-        <img src={tentImg} alt="tent" className="newsletter__img" />
+        <img src="/Images/tent.png" alt="tent" className="newsletter__img" />
       </div>
     </section>
   );

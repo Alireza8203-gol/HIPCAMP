@@ -1,6 +1,3 @@
-import appStoreImg from "@/assets/Images/app-store-apple.jpg";
-import googlePlayImg from "@/assets/Images/google-play.jpg";
-
 const FooterApps = () => {
   return (
     <div className="footer-app">
@@ -8,14 +5,14 @@ const FooterApps = () => {
       <a href="" className="footer-app__link">
         <img
           className="footer-app__img"
-          src={appStoreImg}
+          src="/Images/app-store-apple.jpg"
           alt="Download-app-app-store"
         />
       </a>
       <a href="" className="footer-app__link">
         <img
           className="footer-app__img"
-          src={googlePlayImg}
+          src="/Images/google-play.jpg"
           alt="Download-app-google-play-store"
         />
       </a>

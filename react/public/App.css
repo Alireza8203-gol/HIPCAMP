@@ -148,17 +148,17 @@ table {
 
 @font-face {
   font-family: Roboto-Regular;
-  src: url("@/assets/Fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  src: url("/Fonts/Roboto/Roboto-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: Roboto-Medium;
-  src: url("@/assets/Fonts/Roboto/Roboto-Medium.ttf") format("truetype");
+  src: url("/Fonts/Roboto/Roboto-Medium.ttf") format("truetype");
 }
 
 @font-face {
   font-family: Archivo-Black;
-  src: url("@/assets/Fonts/Archivo/Archivo-Black.ttf") format("truetype");
+  src: url("/Fonts/Archivo/Archivo-Black.ttf") format("truetype");
 }
 
 .container {
@@ -260,7 +260,7 @@ a {
   border-bottom-right-radius: 10rem;
   background:
     linear-gradient(rgba(59, 55, 53, 0.5), rgba(59, 55, 53, 0.5)) center/cover,
-    url("@/assets/Images/header-bg.jpg") center/cover;
+    url("/Images/header-bg.jpg") center/cover;
 }
 
 .nav {
@@ -541,13 +541,13 @@ a {
   top: auto;
   left: -70rem;
   bottom: 45rem;
-  background: url(@/assets/Images/svgs/shape2.svg) 0 0 / contain no-repeat;
+  background: url(/Images/svgs/shape2.svg) 0 0 / contain no-repeat;
 }
 
 .destinations::after {
   top: -27rem;
   right: -53rem;
-  background: url(@/assets/Images/svgs/shape1.svg) 0 0 / contain no-repeat;
+  background: url(/Images/svgs/shape1.svg) 0 0 / contain no-repeat;
 }
 
 .destinations__title {
@@ -684,7 +684,7 @@ a {
   left: -15rem;
   right: 4.5rem;
   position: absolute;
-  background: url(@/assets/Images/svgs/shape3.svg) 0 0 / cover no-repeat;
+  background: url(/Images/svgs/shape3.svg) 0 0 / cover no-repeat;
 }
 
 .newsletter__title {

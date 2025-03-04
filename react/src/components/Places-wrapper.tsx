@@ -1,5 +1,5 @@
-import PlaceCard from "@/components/Place-card.tsx";
 import placesArr from "@/places-config.ts";
+import PlaceCard from "@/components/Place-card.tsx";
 
 const PlacesWrapper = () => {
   return (

@@ -1,6 +1,6 @@
 import FooterApps from "@/components/FooterApps.tsx";
-import ScrollToTopBtn from "@/components/ScrollToTopBtn.tsx";
 import FooterCaption from "@/components/FooterCaption.tsx";
+import ScrollToTopBtn from "@/components/ScrollToTopBtn.tsx";
 import FooterListWrapper from "@/components/FooterListWrapper.tsx";
 
 const Footer = () => {

@@ -1,11 +1,10 @@
-import destinationSvg from "@/assets/Images/svgs/destination.svg";
 import PlacesWrapper from "@/components/Places-wrapper.tsx";
 
 const Destinations = () => {
   return (
     <section className="destinations">
       <img
-        src={destinationSvg}
+        src="/Images/svgs/destination.svg"
         alt="destinations-logo"
         className="destinations__logo"
       />
